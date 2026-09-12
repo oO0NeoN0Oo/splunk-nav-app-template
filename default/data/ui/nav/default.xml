@@ -1,0 +1,9 @@
+<nav search_view="search">
+    <collection label="FIRST DROPDOWN">
+        <a href="www.google.co.uk" label="Google" />
+        <collection label="SECOND DROPDOWN">
+            <a href="www.bing.com" label="Bing" />
+        </collection>
+    </collection>
+    <a href="www.duckduckgo.com" label="Duck Duck Go" />
+</nav>
