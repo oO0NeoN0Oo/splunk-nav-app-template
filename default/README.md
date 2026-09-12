@@ -1,0 +1,1 @@
+This directory contains default configuration files for the Splunk app.

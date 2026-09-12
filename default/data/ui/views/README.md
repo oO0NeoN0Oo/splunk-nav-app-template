@@ -1,0 +1,1 @@
+Developer-authored XML dashboards only. Dashboard Studio JSON dashboards are excluded.
